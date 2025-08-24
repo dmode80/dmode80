@@ -1,11 +1,10 @@
 <div align="center">
   
   $\color{#778899}{hello}$<br />
-  just call me $\color{#808080}{Ri}$<br /> or whatever you want.
+  just call me Ri or whatever you want.
   
-  $\color{#778899}{20yo}$<br />
-  $\color{#808080}{rus/eng}$<br />
-  
+  20
+  rus/eng
 <a href="https://ibb.co/GnX6Zhb"><img src="https://i.ibb.co/NtXv04H/image.png" alt="image" border="0"></a>
 $\color{#808080}{✦}$<br />
 wsp to interact, I'm not always off-tab.
