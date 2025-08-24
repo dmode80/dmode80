@@ -1,11 +1,16 @@
 <div align="center">
   
-  Hey
+  Hey.
+  
   just call me Ri or whatever you want.
   
   20
+  
   rus/eng
+
+  
 <a href="https://ibb.co/GnX6Zhb"><img src="https://i.ibb.co/NtXv04H/image.png" alt="image" border="0"></a>
+
 $\color{#808080}{✦}$<br />
 wsp to interact, I'm not always off-tab.
 im open for conversations, you can sit next to me when I'm alone !
