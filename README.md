@@ -1,6 +1,6 @@
 <div align="center">
   
-  $\color{#778899}{hello}$<br />
+  Hey
   just call me Ri or whatever you want.
   
   20
